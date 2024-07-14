@@ -7,9 +7,6 @@ A simple number guessing game implemented in JavaScript. The player tries to gue
 - [Game Rules](#game-rules)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Game Rules
 
